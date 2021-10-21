@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+}
+
+.contact {
+    text-align: center;
+}
+
+img {
+    width: 10em;
+    height: 10em;
+    float: left;
+}
+
+.who {
+    float: left;
+}
+
+.history {
+    float: right;
+}
+
+.offer {
+    float: left;
+}
