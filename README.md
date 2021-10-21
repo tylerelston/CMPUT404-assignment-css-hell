@@ -1,16 +1,16 @@
 Assignment: CSS Hell
 ====================
+
 Modifications made to html files:
 - Added <link rel="stylesheet" rel="stylesheet" href="style.css"> to each html file
 - Removed in-line styles in each html file
-===================
+
 References
 - https://www.w3schools.com/
 - https://css-tricks.com/snippets/css/css-grid-starter-layouts/
 - https://stackoverflow.com/a/34297963 - user1822264: mix-blend-mode
 - https://www.w3schools.com/howto/howto_css_style_header.asp - heade
 - https://w3bits.com/rainbow-text/ - rainbow gradient
-====================
 
 You will skin 3 project gutenberg stories with custom CSS.
 
