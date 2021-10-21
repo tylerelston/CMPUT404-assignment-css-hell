@@ -4,6 +4,8 @@
 }
 
 body {
+    display: flex;
+    flex-direction: column;
     background: #FBFCFF;
     margin: 0;
 }
