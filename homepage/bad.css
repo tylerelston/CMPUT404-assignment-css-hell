@@ -6,14 +6,24 @@
 body {
     background: #FBFCFF;
     margin: 0;
+    font-family: "Comic Sans MS";
 }
 
 header {
     padding: 60px;
     text-align: center;
-    background: #274156;
+    background: blue;
     color: white;
     font-size: 30px;
+    background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.bubble {
+    background: pink;
+    margin-left: 4em;
+    padding: 1em;
 }
 
 footer {
@@ -27,14 +37,14 @@ footer {
 .contact {
     grid-column: 1 / span 3;
     text-align: center;
-    background: #605856;
+    background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
     color: white;
 }
 
 .sidebar {
     grid-column: 2 / span 2;
     text-align: center;
-    background: #D0CCD0;
+    background: yellow;
 }
 
 img {
